@@ -1,4 +1,3 @@
--# 💫 About Me:
 Hello! I'm Siddhardha , a passionate Front-End Developer, always eager to explore new ideas and embrace creativity in everything I do. Whether it's diving into React. Js and Ai, working on innovative projects, or learning something new, I thrive on growth and discovery. With a love for technology and designing , I aim to bring my unique perspective to every challenge.Constantly looking for inspiration in the world around me.
 
 
