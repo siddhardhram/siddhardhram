@@ -1,5 +1,4 @@
-Hello! I'm Siddhardha , a passionate Front-End Developer, always eager to explore new ideas and embrace creativity in everything I do. Whether it's diving into React. Js and Ai, working on innovative projects, or learning something new, I thrive on growth and discovery. With a love for technology and designing , I aim to bring my unique perspective to every challenge.Constantly looking for inspiration in the world around me.
-
+Full Stack & Machine Learning Aspirant | Developing intelligent applications using MERN, Python, and AI.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddhardh_42) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponnamandasiddhardha/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ponnamandaram711@gmail.com) 
